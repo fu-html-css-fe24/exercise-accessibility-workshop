@@ -7,12 +7,12 @@ Under workshopen kommer ni granska webbsidor utifrån standarder för webbtillg�
 ## Er uppgift 
 Under workshopen kommer ni att jobba i era studiegrupper och utföra tester utifrån webbstandarder för tillgänglighet. Ni ska granska den webbplats er grupp blivit tilldelad enligt listan:
 
-Diamond Nerds: https://www.rf.se/
-Speedy Scientists: http://www.trafikverket.se/
-Pink Rabbits: http://www.skatteverket.se/
-Mad Zebras: http://www.kau.se
-Bionic Dolphins: https://sok.se
-Crypto Poopers: http://paralympics.se/
+* Diamond Nerds: https://www.rf.se/
+* Speedy Scientists: http://www.trafikverket.se/
+* Pink Rabbits: http://www.skatteverket.se/
+* Mad Zebras: http://www.kau.se
+* Bionic Dolphins: https://sok.se
+* Crypto Poopers: http://paralympics.se/
 
 ## Tillvägagångssätt
 
