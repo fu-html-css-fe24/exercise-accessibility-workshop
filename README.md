@@ -27,7 +27,7 @@ WCAG 2.2 hittar ni [här](https://www.w3.org/TR/WCAG22/)
 ### Utvärdera webbplatsen manuellt mot valda kriterier och krav:
 Notera att ni ska göra utvärderingen manuellt där det går, men om ni vill kan ni verifiera er manuella utvärdering med något verktyg. 
 
-## Code Review
-Under torsdagens Code Review kommer ni delas in i tvärgrupper där ni i tur och ordning visar upp vad ni kommit fram till. Gå igenomm punkt för punkt och demonstrera hur webbplatsen möter / inte möter kraven om tillgänglighet.
+## Examinerande Seminarium 21/11
+Under torsdagens Seminarium kommer ni delas in i tvärgrupper där ni i tur och ordning visar upp vad ni kommit fram till. Gå igenomm punkt för punkt och demonstrera hur webbplatsen möter / inte möter kraven om tillgänglighet.
 Diskutera även vad man skulle kunna göra annorlunda för att lösa eventuella problem.
 
