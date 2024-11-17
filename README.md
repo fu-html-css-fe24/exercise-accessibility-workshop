@@ -10,7 +10,7 @@ Under workshopen kommer ni att jobba i era studiegrupper och utföra tester utif
 * Diamond Nerds: https://www.rf.se/
 * Speedy Scientists: http://www.trafikverket.se/
 * Pink Rabbits: http://www.skatteverket.se/
-* Mad Zebras: http://www.kau.se
+* Mad Zebras: https://www.folkuniversitetet.se/
 * Bionic Dolphins: https://sok.se
 * Crypto Poopers: http://paralympics.se/
 
